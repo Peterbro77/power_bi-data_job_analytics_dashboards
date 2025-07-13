@@ -42,9 +42,9 @@ It provides insights into:
 
 
 
-| Overview | Drill-through |
-|---------|----------------|
-| ![Overview](screenshots/overview.png) | ![Drill](screenshots/drillthrough.png) |
+| DashBoard | Drill-through | DashBoard_Final |
+|---------|----------------|------------------|
+| ![Dashboard](screenshots/overview.png) | ![Drill](screenshots/Drillthrough.png) | ![Dahsboard_Final](screenshots/Dashboard_final.png) |
 
 
 ---
