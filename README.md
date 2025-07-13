@@ -38,9 +38,9 @@ It provides insights into:
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
-> *(Upload them in a `/screenshots` folder and embed them like this)*
+
 
 | Overview | Drill-through |
 |---------|----------------|
